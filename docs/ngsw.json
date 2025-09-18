@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1758068428439,
+  "timestamp": 1758229311808,
   "index": "/index.csr.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/favicon.ico",
         "/index.csr.html",
         "/index.html",
-        "/main-M2L5CYNM.js",
+        "/main-AOQRL24L.js",
         "/manifest.webmanifest",
         "/styles-5INURTSO.css"
       ],
@@ -35,7 +35,8 @@
         "/icons/icon-384x384.png",
         "/icons/icon-512x512.png",
         "/icons/icon-72x72.png",
-        "/icons/icon-96x96.png"
+        "/icons/icon-96x96.png",
+        "/logo.jpg"
       ],
       "patterns": []
     }
@@ -51,9 +52,10 @@
     "/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/index.csr.html": "c9663d87d0fd9ebdec92647be0dbcd85d6d6bae5",
-    "/index.html": "6645a9c50f4630ad17eda51acbe7417bfab94ad1",
-    "/main-M2L5CYNM.js": "5c81afa283439bc5abb5b5bd3a5ab16a90514438",
+    "/index.csr.html": "5ffb7f34778b8b20f3b20d737d11c854bbb76d00",
+    "/index.html": "5c805b4d75d5d8c9d4cdd7fea795731ddd4d739c",
+    "/logo.jpg": "2b5a284f3d3728e8249f9c903eadab6dc7021127",
+    "/main-AOQRL24L.js": "53ca70e64ee8270581d2ca7979b9918b49695212",
     "/manifest.webmanifest": "912b3370ed009d431aa05040e31ed99d1d7f2270",
     "/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
   },
